@@ -1,4 +1,4 @@
-# Catch2 Grade Repor for GitHub Actions
+# Catch2 Grade Reporter for GitHub Actions
 
 This reporter for Catch2 will output Markdown-formatted [Job Summary](https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/) Grade Report for GitHub Actions.
 
