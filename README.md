@@ -17,7 +17,10 @@ Usage is straightforward.
    ```c++
    TEST_CASE("Sample test case", "[graded]")
    {
-	   SECTION("Sample Section|5")
+       SECTION("Sample Section|5")
+       {
+           // REQUIRE statements like usual...
+       }
    }
    ```
 4. When you run your test case executable, you need to run with the command line argument `-r=github` to use this new runner.
